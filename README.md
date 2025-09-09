@@ -1,7 +1,6 @@
 # Diabetic Foot Ulcer Detection and Classification
 ```markdown
 
-
 ## Overview
 This project focuses on the detection and classification of diabetic foot ulcers using deep learning techniques. The goal is to develop a model that can accurately identify and categorize foot ulcers, aiding in early diagnosis and treatment.
 
