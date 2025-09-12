@@ -15,6 +15,8 @@ This project focuses on the detection and classification of diabetic foot ulcers
 1. Clone the repository:
    ```bash
    git clone https://github.com/bhaskarasp/diabetic-foot-ulcer-detection.git
+   ```
+   ```
    cd diabetic-foot-ulcer-detection
    ```
 
